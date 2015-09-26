@@ -8,6 +8,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="Kushagra Pandey - I develop. I design. I program. I code. I freak." />
 		<meta name="keywords" content="kushagra,pandey" />
+		<meta property="og:title" content="Kushagra Pandey" />
+		<meta property="og:url" content="http://kushagra.xyz" />
+		<meta property="og:image" content="http://kushagra.xyz/home.png" />
 		
 		<link  rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
 		<link  rel="stylesheet" type="text/css" href="assets/css/bootstrap-theme.min.css" />
@@ -20,11 +23,11 @@
 		<div class="header">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-6 fhalf"><h1 id="fname">Kushagra</h1></div>
-					<div class="col-lg-6 shalf"><h1 id="lname">Pandey</h1></div>
+					<div class="col-sm-6 fhalf"><h1 id="fname">Kushagra</h1></div>
+					<div class="col-sm-6 shalf"><h1 id="lname">Pandey</h1></div>
 					<div class="clearfix"></div>
-					<div class="col-lg-6 fhalf"><h2 id="iama"></h2></div>
-					<div class="col-lg-6 shalf"><h2 class="things">web designer</h2></div>
+					<div class="col-sm-6 fhalf"><h2 id="iama"></h2></div>
+					<div class="col-sm-6 shalf"><h2 class="things">web designer</h2></div>
 				</div>
 				<p>I've worked on various programming languages and on diverse projects. Web development, App development, and UI/UX is what I love. But where there is a code, there is a <span class="fa fa-heart"></span> !</p>
 				<div class="header_arrow">
@@ -104,7 +107,7 @@
 				<div class="cd-timeline-content">
 					<h2>Engineer, Associate, Qualcomm India</h2>
 					<p>Working as Engineer, Associate, in Location Technology team. Working on Distance Based Tracking & Continuous Tracking for Windows Phone & PC Drivers. Developed an Application to route the correct path of approximate GPS path coordinates for Automotive</p>
-					<span class="cd-date">Jun'15 - Now</span>
+					<span class="cd-date">Jun'15 - Present</span>
 				</div> <!-- cd-timeline-content -->
 			</div> <!-- cd-timeline-block -->
 

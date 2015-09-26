@@ -668,3 +668,21 @@ Modules - reusable parts of our design
     transform: translateX(0);
   }
 }
+
+
+
+
+@media screen and (max-width: 767px) {
+	
+	.header h1 {
+		font-size: 2em;
+		margin-top: 0em;
+		padding: 25px;
+	}
+	.fhalf h1{
+		margin-top: 5em;
+	}
+	.header h1#lname, .header h2.things{
+		float: right;
+	}
+}
